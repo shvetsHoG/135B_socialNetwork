@@ -1,1 +1,1 @@
-this app was created by React
+this app is built with React
