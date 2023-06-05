@@ -1,0 +1,18 @@
+.item {
+    color: black;
+}
+
+.item img {
+    height: 50px;
+    width: 50px;
+    border-radius: 25px;
+}
+
+.like {
+    margin-right: 10px;
+    color:aliceblue;
+}
+
+.dislike {
+    color:aliceblue;
+}

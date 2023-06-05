@@ -1,0 +1,13 @@
+.content {
+    grid-area: c;
+    background: #425bfa;
+}
+
+.content img {
+    height: 100%;
+    width: 100%;
+}
+
+.desriptionBlock {
+    padding: 10px;
+}

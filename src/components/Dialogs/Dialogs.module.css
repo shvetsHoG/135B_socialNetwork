@@ -1,0 +1,44 @@
+.dialogs {
+    display: flex;
+    flex-direction: column;
+}
+
+.dialog {
+    padding: 10px;
+}
+
+.dialogItem{
+    color: #fff;
+    text-decoration: none;
+}
+
+.dialogItem:visited {
+}
+
+.messages {
+    padding: 20px;
+}
+
+.sender {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.textarea {
+    resize: none;
+    padding: 10px;
+    width: 300px;
+    margin-right: 15px;
+}
+
+.btn {
+    max-width: 150px;
+    max-height: 50px;
+    padding: 10px;
+    text-align: center;
+}
+.dialogsAndMessages {
+    display: flex;
+    justify-content: space-around;
+}
